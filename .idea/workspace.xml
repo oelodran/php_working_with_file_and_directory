@@ -2,40 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a1903ee-1879-4302-ad63-85a15ec18785" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/php_sandbox/assets/treasure_hunt/beach/jetty.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php_sandbox/assets/treasure_hunt/beach/large_rock.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php_sandbox/assets/treasure_hunt/beach/sand.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php_sandbox/assets/treasure_hunt/beach/seashell.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php_sandbox/assets/treasure_hunt/beach/shipwreck/cabin.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php_sandbox/assets/treasure_hunt/beach/shipwreck/crowsnest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php_sandbox/assets/treasure_hunt/beach/shipwreck/deck.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php_sandbox/assets/treasure_hunt/beach/shipwreck/galley.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php_sandbox/assets/treasure_hunt/beach/small_rock.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php_sandbox/assets/treasure_hunt/bushes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php_sandbox/assets/treasure_hunt/campsite/campfire.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php_sandbox/assets/treasure_hunt/campsite/chair.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php_sandbox/assets/treasure_hunt/campsite/tent.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php_sandbox/assets/treasure_hunt/campsite/tin_cup.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php_sandbox/assets/treasure_hunt/jungle/bush.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php_sandbox/assets/treasure_hunt/jungle/cave/darkness.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php_sandbox/assets/treasure_hunt/jungle/cave/den.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php_sandbox/assets/treasure_hunt/jungle/cave/pile_of_bones.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php_sandbox/assets/treasure_hunt/jungle/palm_leaves.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php_sandbox/assets/treasure_hunt/jungle/palm_tree.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php_sandbox/assets/treasure_hunt/jungle/reeds.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php_sandbox/assets/treasure_hunt/jungle/river.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php_sandbox/assets/treasure_hunt/jungle/waterfall.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php_sandbox/assets/treasure_hunt/mineshaft/minecart.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php_sandbox/assets/treasure_hunt/path.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php_sandbox/assets/treasure_hunt/tarp.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php_sandbox/dir_access.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php_sandbox/dir_basics.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php_sandbox/dir_create.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php_sandbox/dir_glob.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php_sandbox/log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php_sandbox/treasure_hunter.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php_sandbox/upload_form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php_sandbox/upload.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php_sandbox/upload_form.php" beforeDir="false" afterPath="$PROJECT_DIR$/php_sandbox/upload_form.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,11 +19,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/php_sandbox/upload_form.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="286">
+              <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/php_sandbox/upload.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="387">
+              <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -84,6 +62,7 @@
         <option value="$PROJECT_DIR$/php_sandbox/dir_glob.php" />
         <option value="$PROJECT_DIR$/php_sandbox/treasure_hunter.php" />
         <option value="$PROJECT_DIR$/php_sandbox/upload_form.php" />
+        <option value="$PROJECT_DIR$/php_sandbox/upload.php" />
       </list>
     </option>
   </component>
@@ -160,7 +139,7 @@
       <workItem from="1615044091463" duration="10709000" />
       <workItem from="1615136724555" duration="5973000" />
       <workItem from="1615222849442" duration="11384000" />
-      <workItem from="1615308160374" duration="3839000" />
+      <workItem from="1615308160374" duration="8456000" />
     </task>
     <task id="LOCAL-00001" summary="Moving the file pointer">
       <created>1615224108368</created>
@@ -176,15 +155,21 @@
       <option name="project" value="LOCAL" />
       <updated>1615230874956</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Ended working with directory">
+      <created>1615318446373</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1615318446373</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31905000" />
+    <option name="totallyTimeSpent" value="36522000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19012944" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -213,7 +198,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Moving the file pointer" />
     <MESSAGE value="Ended working with file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ended working with file" />
+    <MESSAGE value="Ended working with directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ended working with directory" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/php_sandbox/assets/lorem_ipsum.txt">
@@ -376,8 +362,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/php_sandbox/upload_form.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="286">
+          <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php_sandbox/upload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
         </state>
       </provider>
     </entry>
