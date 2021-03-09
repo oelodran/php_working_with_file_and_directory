@@ -1,0 +1,9 @@
+2021-03-08 19:26:29 - Test
+2021-03-08 19:26:30 - Login: Smith logged in
+2021-03-08 19:26:30 - Logout: Smith logged out
+2021-03-08 19:27:49 - Test
+2021-03-08 19:27:49 - Login: Smith logged in
+2021-03-08 19:27:49 - Logout: Smith logged out
+2021-03-08 19:28:02 - Test
+2021-03-08 19:28:02 - Login: Smith logged in
+2021-03-08 19:28:02 - Logout: Smith logged out
